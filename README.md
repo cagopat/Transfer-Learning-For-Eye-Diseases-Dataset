@@ -5,6 +5,10 @@ Overview
 This project focuses on classifying various eye diseases using deep learning techniques, particularly transfer learning and data augmentation. The model leverages pre-trained convolutional neural networks (CNNs) and fine-tunes them to accurately classify eye diseases from medical images.
 
 
+The dataset used for this project can be found on Kaggle: [Eye Diseases Dataset](https://www.kaggle.com/datasets/walaaomara/eye-diseases/data).
+
+
+
 ![image](https://github.com/user-attachments/assets/04700b2a-db9e-4145-82e9-6018a164d1f0)
 
 
