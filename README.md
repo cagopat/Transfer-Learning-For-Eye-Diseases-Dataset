@@ -1,5 +1,7 @@
 # Transfer-Learning-For-Eye-Diseases-Dataset
 Overview
+
+
 This project focuses on classifying various eye diseases using deep learning techniques, particularly transfer learning and data augmentation. The model leverages pre-trained convolutional neural networks (CNNs) and fine-tunes them to accurately classify eye diseases from medical images.
 
 
