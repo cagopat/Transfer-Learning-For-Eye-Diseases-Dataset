@@ -32,6 +32,15 @@ The project achieved an accuracy of 96.68% on the test set, demonstrating the ef
 
 ![image](https://github.com/user-attachments/assets/9f32cc5e-aea8-46b4-8b47-e0294e178c3a)
 
+
+
+
+# Confusion Matrix
+
+
+![image](https://github.com/user-attachments/assets/8f40fab4-c65b-4fba-95c7-77919896867a)
+
+
 # Acknowledgments
 The project uses pre-trained models from Keras Applications.
 Data augmentation techniques inspired by various deep learning research papers.
