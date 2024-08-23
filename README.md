@@ -16,7 +16,7 @@ The dataset used for this project can be found on Kaggle: [Eye Diseases Dataset]
 # Features
 
 
-Transfer Learning: VGG16 is the base model as it displayed a stronger performance on this particular dataset than the other architectures like Xception.
+Transfer Learning: VGG19 is the base model as it displayed a stronger performance on this particular dataset than the other architectures like Xception.
 
 
 Data Augmentation: Applies techniques such as rotation, flipping, and zooming to artificially increase the size of the training dataset and improve model generalization.
